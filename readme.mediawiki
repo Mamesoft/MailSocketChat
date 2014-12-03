@@ -7,3 +7,7 @@ This is [https://github.com/uhyo/socketchat SocketChat] Client for E-Mail on Com
 
 ==Web Page==
 http://mamesoft.jp/soft/mailsocketchat/ (Japanese)
+
+==License==
+Released under the MIT license
+see LICENSE

@@ -1,3 +1,9 @@
+//
+// Copyright (c) 2014 Mamesoft
+// Released under the MIT license
+// http://opensource.org/licenses/mit-license.php
+//
+
 package jp.mamesoft.mailsocketchat;
 
 import java.io.BufferedReader;
