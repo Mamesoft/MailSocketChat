@@ -1,4 +1,4 @@
-=CommandSocketChat=
+=MailSocketChat=
 This is [https://github.com/uhyo/socketchat SocketChat] Client for E-Mail on CommandLine by Java(JDK) 7.
 
 ==required library==
